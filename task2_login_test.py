@@ -13,3 +13,5 @@ btn=driver.find_element(By.CSS_SELECTOR,"i[class='fa fa-2x fa-sign-in']")
 btn.click()
 text=driver.find_element(By.ID,"flash")
 print(text.text)
+
+driver.quit()
