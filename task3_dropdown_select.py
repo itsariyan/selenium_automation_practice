@@ -8,3 +8,5 @@ options=Select(element)
 
 options.select_by_value("1")
 print("Option 1 has been selected")
+
+driver.quit()
