@@ -11,3 +11,5 @@ alert.accept()
 result=driver.find_element(By.ID,"result")
 print(result.text)
 time.sleep(4)
+
+driver.quit()
