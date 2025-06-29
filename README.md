@@ -13,3 +13,12 @@ This repository contains 10 beginner-level Selenium automation tasks using Pytho
 8. File upload
 9. Scroll and take screenshot
 10. Wait for dynamic loading
+
+Technologies Used:
+- Python 3
+- Selenium WebDriver
+- ChromeDriver
+
+How to Run:
+1. Make sure you have Python and ChromeDriver installed.
+2. Install Selenium using pip
